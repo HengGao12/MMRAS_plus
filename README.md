@@ -32,7 +32,7 @@ The anomaly inference datasets are given in './datasets/Validation_Dataset', whi
 CUDA_VISIBLE_DEVICES=1 python anomaly_utils/anomaly_inference.py --score mmras --exp_name the_exp_name
 ```
 
-The pre-trained model is given in './output/m2unk_coco_supervised_v1/best_contrastive.pth'.  
+The pre-trained model is given in './output/m2unk_coco_supervised_v1/best_contrastive.pth', one can also download the model from this [link](https://drive.google.com/drive/folders/1eQhmPbKSZrN1AsieY9KFchfll7XC1_SF).  
 
 **After running the code above, the inference log file will be saved in './results/'**
 
