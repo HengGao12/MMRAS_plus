@@ -1,0 +1,72 @@
+[10/10 20:57:00] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 20:58:34] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:00:14] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:11:34] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:12:46] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:19:25] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input=['/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg'], opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly/', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:20:19] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:20:24] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.21s
+[10/10 21:35:01] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:35:05] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/40.jpg: finished in 1.64s
+[10/10 21:36:30] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-exp', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/*.jpg', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/RoadAnomaly', score='Mask2Anomaly', text_enhance=False)
+[10/10 21:36:34] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/40.jpg: finished in 1.77s
+[10/10 21:36:36] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/24.jpg: finished in 1.64s
+[10/10 21:36:37] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/1.jpg: finished in 1.09s
+[10/10 21:36:39] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/22.jpg: finished in 1.30s
+[10/10 21:36:40] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/34.jpg: finished in 1.24s
+[10/10 21:36:41] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/48.jpg: finished in 1.14s
+[10/10 21:36:43] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/59.jpg: finished in 1.62s
+[10/10 21:36:45] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/12.jpg: finished in 1.79s
+[10/10 21:36:47] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/5.jpg: finished in 1.42s
+[10/10 21:36:49] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/28.jpg: finished in 1.37s
+[10/10 21:36:50] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/11.jpg: finished in 1.14s
+[10/10 21:36:51] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/32.jpg: finished in 1.35s
+[10/10 21:36:53] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/36.jpg: finished in 1.75s
+[10/10 21:36:55] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/44.jpg: finished in 1.38s
+[10/10 21:36:56] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/37.jpg: finished in 1.36s
+[10/10 21:36:59] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/18.jpg: finished in 2.13s
+[10/10 21:37:00] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/56.jpg: finished in 1.30s
+[10/10 21:37:01] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/43.jpg: finished in 1.10s
+[10/10 21:37:03] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/23.jpg: finished in 1.58s
+[10/10 21:37:04] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/47.jpg: finished in 1.12s
+[10/10 21:37:06] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/13.jpg: finished in 1.47s
+[10/10 21:37:08] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/20.jpg: finished in 1.92s
+[10/10 21:37:10] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/8.jpg: finished in 1.84s
+[10/10 21:37:12] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/0.jpg: finished in 2.07s
+[10/10 21:37:14] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/16.jpg: finished in 1.55s
+[10/10 21:37:16] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/7.jpg: finished in 1.41s
+[10/10 21:37:17] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/6.jpg: finished in 1.41s
+[10/10 21:37:18] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/30.jpg: finished in 1.03s
+[10/10 21:37:20] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/49.jpg: finished in 1.16s
+[10/10 21:37:22] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/58.jpg: finished in 1.54s
+[10/10 21:37:23] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/51.jpg: finished in 1.16s
+[10/10 21:37:24] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/17.jpg: finished in 1.31s
+[10/10 21:37:26] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/3.jpg: finished in 1.54s
+[10/10 21:37:28] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/2.jpg: finished in 1.40s
+[10/10 21:37:29] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/53.jpg: finished in 1.29s
+[10/10 21:37:31] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/33.jpg: finished in 1.45s
+[10/10 21:37:32] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/27.jpg: finished in 1.30s
+[10/10 21:37:34] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/46.jpg: finished in 1.06s
+[10/10 21:37:35] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/26.jpg: finished in 0.99s
+[10/10 21:37:36] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/25.jpg: finished in 1.25s
+[10/10 21:37:37] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/19.jpg: finished in 0.99s
+[10/10 21:37:39] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/38.jpg: finished in 1.58s
+[10/10 21:37:40] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/29.jpg: finished in 1.25s
+[10/10 21:37:42] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/50.jpg: finished in 1.12s
+[10/10 21:37:44] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/41.jpg: finished in 1.25s
+[10/10 21:37:46] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/21.jpg: finished in 1.13s
+[10/10 21:37:47] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/10.jpg: finished in 1.03s
+[10/10 21:37:48] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/52.jpg: finished in 1.17s
+[10/10 21:37:49] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/39.jpg: finished in 1.18s
+[10/10 21:37:51] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/42.jpg: finished in 1.40s
+[10/10 21:37:53] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/15.jpg: finished in 1.48s
+[10/10 21:37:55] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/4.jpg: finished in 1.72s
+[10/10 21:37:57] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/45.jpg: finished in 1.42s
+[10/10 21:37:58] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/31.jpg: finished in 1.41s
+[10/10 21:38:00] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/9.jpg: finished in 1.15s
+[10/10 21:38:01] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/14.jpg: finished in 1.49s
+[10/10 21:38:03] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/55.jpg: finished in 1.49s
+[10/10 21:38:05] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/57.jpg: finished in 1.74s
+[10/10 21:38:07] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/35.jpg: finished in 1.76s
+[10/10 21:38:08] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/RoadAnomaly/images/54.jpg: finished in 1.30s
+[10/10 21:39:03] detectron2 INFO: AUROC score:0.9657050194666279, AUPRC score:0.7953415073579424, FPR@TPR95:0.1354715536560012.

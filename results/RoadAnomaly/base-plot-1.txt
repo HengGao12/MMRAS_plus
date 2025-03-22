@@ -1,0 +1,6 @@
+[10/14 06:49:58] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-plot-1', input='./datasets/Validation_Dataset/RoadAnomaly/images/*.jpg', opts=[], output='./anomaly_predictions/RoadAnomaly/', temperature=1.5, temperature_flag=False, text_enhance=False)
+[10/14 06:50:07] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly/images/40.jpg: finished in 1.59s
+[10/14 06:50:55] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly/images/24.jpg: finished in 5.78s
+[10/14 16:40:11] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='base-plot-1', input='./datasets/Validation_Dataset/RoadAnomaly/images/*.jpg', opts=[], output='./anomaly_predictions/RoadAnomaly/', temperature=1.5, temperature_flag=False, text_enhance=False)
+[10/14 16:40:18] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly/images/40.jpg: finished in 1.56s
+[10/14 16:55:38] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly/images/24.jpg: finished in 7.96s
