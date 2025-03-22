@@ -1,0 +1,2 @@
+[10/13 22:11:08] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly21', exp_name='text-enhanced-new-10-13-dev', input='./datasets/Validation_Dataset/RoadAnomaly21/images/*.png', opts=[], output='./anomaly_predictions/RoadAnomaly21/', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/13 22:11:17] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/8.png: finished in 1.82s

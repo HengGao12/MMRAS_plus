@@ -1,0 +1,12 @@
+[11/02 14:41:49] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly21', exp_name='ENTROPY-FINAL-RESULTS', input='./datasets/Validation_Dataset/RoadAnomaly21/images/*.png', opts=[], output='./anomaly_predictions/RoadAnomaly21/', score='entropy', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/02 14:41:56] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/8.png: finished in 1.30s
+[11/02 14:41:57] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/3.png: finished in 1.07s
+[11/02 14:41:59] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/4.png: finished in 1.26s
+[11/02 14:42:00] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/7.png: finished in 1.04s
+[11/02 14:42:01] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/6.png: finished in 1.16s
+[11/02 14:42:02] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/5.png: finished in 1.21s
+[11/02 14:42:04] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/1.png: finished in 1.03s
+[11/02 14:42:05] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/9.png: finished in 1.53s
+[11/02 14:42:06] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/2.png: finished in 0.95s
+[11/02 14:42:07] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/0.png: finished in 0.99s
+[11/02 14:42:14] detectron2 INFO: AUROC score:0.7377767334401379, AUPRC score:0.2959037766843417, FPR@TPR95:0.5860071804598518.

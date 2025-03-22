@@ -1,0 +1,12 @@
+[10/18 18:40:23] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly21', exp_name='maxlogits-final-results', input='./datasets/Validation_Dataset/RoadAnomaly21/images/*.png', opts=[], output='./anomaly_predictions/RoadAnomaly21/', score='maxlogits', temperature=1.5, temperature_flag=False, text_enhance=False)
+[10/18 18:40:36] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/8.png: finished in 2.34s
+[10/18 18:40:38] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/3.png: finished in 2.15s
+[10/18 18:40:40] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/4.png: finished in 2.18s
+[10/18 18:40:42] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/7.png: finished in 1.69s
+[10/18 18:40:45] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/6.png: finished in 2.43s
+[10/18 18:40:47] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/5.png: finished in 2.18s
+[10/18 18:40:49] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/1.png: finished in 1.68s
+[10/18 18:40:52] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/9.png: finished in 2.96s
+[10/18 18:40:54] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/2.png: finished in 1.91s
+[10/18 18:40:55] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly21/images/0.png: finished in 1.79s
+[10/18 18:41:06] detectron2 INFO: AUROC score:0.989467558864985, AUPRC score:0.9344146332701359, FPR@TPR95:0.03194239933803751.
