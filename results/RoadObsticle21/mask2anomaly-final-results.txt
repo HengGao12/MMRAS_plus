@@ -1,0 +1,32 @@
+[10/18 18:26:59] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadObsticle21', exp_name='mask2anomaly-final-results', input='./datasets/Validation_Dataset/RoadObsticle21/images/*.webp', opts=[], output='./anomaly_predictions/RoadObsticle21/', score='mask2anomaly', temperature=1.5, temperature_flag=False, text_enhance=False)
+[10/18 18:27:13] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/26.webp: finished in 3.23s
+[10/18 18:27:16] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/20.webp: finished in 2.77s
+[10/18 18:27:19] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/9.webp: finished in 2.77s
+[10/18 18:27:22] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/8.webp: finished in 2.74s
+[10/18 18:27:25] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/3.webp: finished in 2.74s
+[10/18 18:27:28] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/6.webp: finished in 2.99s
+[10/18 18:27:31] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/17.webp: finished in 2.67s
+[10/18 18:27:34] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/11.webp: finished in 3.09s
+[10/18 18:27:38] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/19.webp: finished in 3.29s
+[10/18 18:27:41] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/25.webp: finished in 2.95s
+[10/18 18:27:44] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/5.webp: finished in 2.64s
+[10/18 18:27:46] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/14.webp: finished in 2.40s
+[10/18 18:27:49] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/28.webp: finished in 2.59s
+[10/18 18:27:52] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/16.webp: finished in 2.54s
+[10/18 18:27:55] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/29.webp: finished in 2.79s
+[10/18 18:27:58] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/24.webp: finished in 2.73s
+[10/18 18:28:01] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/0.webp: finished in 3.28s
+[10/18 18:28:04] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/2.webp: finished in 2.42s
+[10/18 18:28:07] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/12.webp: finished in 2.67s
+[10/18 18:28:10] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/1.webp: finished in 3.02s
+[10/18 18:28:13] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/27.webp: finished in 2.62s
+[10/18 18:28:16] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/23.webp: finished in 2.86s
+[10/18 18:28:19] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/22.webp: finished in 2.88s
+[10/18 18:28:22] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/13.webp: finished in 2.63s
+[10/18 18:28:25] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/18.webp: finished in 3.06s
+[10/18 18:28:28] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/15.webp: finished in 2.96s
+[10/18 18:28:32] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/7.webp: finished in 3.38s
+[10/18 18:28:34] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/10.webp: finished in 2.73s
+[10/18 18:28:38] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/4.webp: finished in 3.00s
+[10/18 18:28:41] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/21.webp: finished in 3.26s
+[10/18 18:29:49] detectron2 INFO: AUROC score:0.997585189474342, AUPRC score:0.6053345990735268, FPR@TPR95:0.006529261197542751.

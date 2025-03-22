@@ -1,0 +1,2 @@
+[11/21 19:35:53] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadObsticle21', exp_name='MMRAS-FINAL-RESULTS-RO21', input='./datasets/Validation_Dataset/RoadObsticle21/images/*.webp', opts=[], output='./anomaly_predictions/RoadObsticle21/', score='mmras', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/21 19:36:09] detectron2 INFO: ./datasets/Validation_Dataset/RoadObsticle21/images/26.webp: finished in 2.57s
