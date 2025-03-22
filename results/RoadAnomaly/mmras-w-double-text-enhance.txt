@@ -1,0 +1,2 @@
+[10/21 13:30:23] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='RoadAnomaly', exp_name='mmras-w-double-text-enhance', input='./datasets/Validation_Dataset/RoadAnomaly/images/*.jpg', opts=[], output='./anomaly_predictions/RoadAnomaly/', score='mmras', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/21 13:30:32] detectron2 INFO: ./datasets/Validation_Dataset/RoadAnomaly/images/40.jpg: finished in 1.83s
