@@ -1,0 +1,70 @@
+[10/11 05:43:39] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='fs_static', exp_name='base-exp', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/*.jpg', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/fs_static', score='Mask2Anomaly', text_enhance=True)
+[10/11 05:43:43] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/24.jpg: finished in 2.25s
+[10/11 05:43:46] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/1.jpg: finished in 2.84s
+[10/11 05:43:49] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/22.jpg: finished in 2.84s
+[10/11 05:43:52] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/12.jpg: finished in 3.10s
+[10/11 05:43:55] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/5.jpg: finished in 2.50s
+[10/11 05:43:57] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/28.jpg: finished in 2.27s
+[10/11 05:44:00] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/11.jpg: finished in 2.96s
+[10/11 05:44:03] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/18.jpg: finished in 2.54s
+[10/11 05:44:07] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/23.jpg: finished in 3.72s
+[10/11 05:44:10] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/13.jpg: finished in 2.70s
+[10/11 05:44:12] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/20.jpg: finished in 2.36s
+[10/11 05:44:16] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/8.jpg: finished in 3.52s
+[10/11 05:44:20] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/0.jpg: finished in 3.22s
+[10/11 05:44:23] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/16.jpg: finished in 2.74s
+[10/11 05:44:26] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/7.jpg: finished in 2.78s
+[10/11 05:44:30] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/6.jpg: finished in 4.34s
+[10/11 05:44:33] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/17.jpg: finished in 2.62s
+[10/11 05:44:36] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/3.jpg: finished in 3.06s
+[10/11 05:44:39] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/2.jpg: finished in 2.65s
+[10/11 05:44:42] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/27.jpg: finished in 3.14s
+[10/11 05:44:46] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/26.jpg: finished in 3.32s
+[10/11 05:44:48] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/25.jpg: finished in 2.04s
+[10/11 05:44:51] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/19.jpg: finished in 3.45s
+[10/11 05:44:55] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/29.jpg: finished in 3.36s
+[10/11 05:44:58] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/21.jpg: finished in 2.62s
+[10/11 05:45:01] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/10.jpg: finished in 3.36s
+[10/11 05:45:04] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/15.jpg: finished in 2.72s
+[10/11 05:45:08] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/4.jpg: finished in 3.53s
+[10/11 05:45:11] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/9.jpg: finished in 3.02s
+[10/11 05:45:14] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/fs_static/images/14.jpg: finished in 2.26s
+[10/11 05:46:15] detectron2 INFO: AUROC score:0.9075704412557092, AUPRC score:0.8505845142148248, FPR@TPR95:0.7020525334396671.
+[11/17 23:09:16] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='fs_static', exp_name='base-exp', input='./datasets/Validation_Dataset/fs_static/images/*.jpg', opts=[], output='./anomaly_predictions/fs_static/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/17 23:09:35] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/24.jpg: finished in 2.72s
+[11/17 23:43:38] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='fs_static', exp_name='base-exp', input='./datasets/Validation_Dataset/fs_static/images/*.jpg', opts=[], output='./anomaly_predictions/fs_static/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/17 23:43:46] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/24.jpg: finished in 2.39s
+[11/17 23:57:34] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='fs_static', exp_name='base-exp', input='./datasets/Validation_Dataset/fs_static/images/*.jpg', opts=[], output='./anomaly_predictions/fs_static/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/17 23:57:43] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/24.jpg: finished in 2.46s
+[11/17 23:57:46] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/1.jpg: finished in 3.26s
+[11/17 23:57:50] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/22.jpg: finished in 3.30s
+[11/17 23:57:53] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/12.jpg: finished in 3.20s
+[11/17 23:57:56] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/5.jpg: finished in 2.87s
+[11/17 23:57:59] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/28.jpg: finished in 2.62s
+[11/17 23:58:02] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/11.jpg: finished in 3.14s
+[11/17 23:58:05] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/18.jpg: finished in 2.90s
+[11/17 23:58:09] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/23.jpg: finished in 3.74s
+[11/17 23:58:12] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/13.jpg: finished in 2.90s
+[11/17 23:58:15] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/20.jpg: finished in 2.78s
+[11/17 23:58:19] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/8.jpg: finished in 3.75s
+[11/17 23:58:23] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/0.jpg: finished in 3.54s
+[11/17 23:58:26] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/16.jpg: finished in 2.90s
+[11/17 23:58:29] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/7.jpg: finished in 2.84s
+[11/17 23:58:34] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/6.jpg: finished in 4.38s
+[11/17 23:58:37] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/17.jpg: finished in 3.12s
+[11/17 23:58:41] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/3.jpg: finished in 3.21s
+[11/17 23:58:44] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/2.jpg: finished in 2.80s
+[11/17 23:58:47] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/27.jpg: finished in 3.19s
+[11/17 23:58:51] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/26.jpg: finished in 3.47s
+[11/17 23:58:53] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/25.jpg: finished in 2.44s
+[11/17 23:58:57] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/19.jpg: finished in 3.67s
+[11/17 23:59:01] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/29.jpg: finished in 3.49s
+[11/17 23:59:04] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/21.jpg: finished in 2.90s
+[11/17 23:59:08] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/10.jpg: finished in 3.80s
+[11/17 23:59:11] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/15.jpg: finished in 3.17s
+[11/17 23:59:15] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/4.jpg: finished in 3.65s
+[11/17 23:59:18] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/9.jpg: finished in 3.07s
+[11/17 23:59:21] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/14.jpg: finished in 2.65s
+[11/18 00:00:36] detectron2 INFO: AUROC score:0.9041678157687884, AUPRC score:0.8493431606042493, FPR@TPR95:0.647820061719939, FPS:3.1738948504130047.
+[11/18 00:08:15] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='fs_static', exp_name='base-exp', input='./datasets/Validation_Dataset/fs_static/images/*.jpg', opts=[], output='./anomaly_predictions/fs_static/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/18 00:08:23] detectron2 INFO: ./datasets/Validation_Dataset/fs_static/images/24.jpg: finished in 2.23s

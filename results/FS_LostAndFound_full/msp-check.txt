@@ -1,0 +1,2 @@
+[11/18 19:55:41] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='FS_LostAndFound_full', exp_name='msp-check', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/fs_static/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True, ws=True)
+[11/18 19:55:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.33s

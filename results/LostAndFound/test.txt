@@ -1,0 +1,351 @@
+[10/09 06:04:04] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 06:04:11] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.42s
+[10/09 07:28:14] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 07:28:19] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.48s
+[10/09 07:30:25] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 07:30:30] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.44s
+[10/09 07:33:52] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 07:33:57] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.37s
+[10/09 07:37:01] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 07:37:06] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.47s
+[10/09 07:38:39] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 07:38:44] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.46s
+[10/09 17:42:00] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 17:42:04] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.36s
+[10/09 17:53:24] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 17:53:29] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.45s
+[10/09 17:54:31] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 17:54:36] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.55s
+[10/09 19:11:01] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 19:42:08] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 19:43:10] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 19:57:29] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:11:16] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:12:01] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:13:48] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:24:26] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:25:16] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:31:17] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:33:33] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:36:05] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:48:46] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:48:51] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.39s
+[10/09 21:50:59] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:51:53] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:55:05] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:57:10] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 21:57:15] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.46s
+[10/09 22:18:55] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 22:19:00] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.65s
+[10/09 22:26:42] detectron2 INFO: Arguments: Namespace(aug=True, confidence_threshold=0.5, config_file='/home1/gaoheng/gh_workspace/Mask2Anomaly/configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='/home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='/home1/gaoheng/gh_workspace/Mask2Anomaly/results/LostAndFound', score='Mask2Anomaly')
+[10/09 22:26:48] detectron2 INFO: /home1/gaoheng/gh_workspace/Mask2Anomaly/datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 3.49s
+[10/18 05:23:44] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/LostAndFound/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=False)
+[10/18 05:24:01] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 4.77s
+[10/18 05:38:40] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/LostAndFound/', score='mask2anomaly', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/18 05:38:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 5.04s
+[10/18 05:38:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/35.png: finished in 3.73s
+[10/18 05:39:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/49.png: finished in 5.00s
+[10/18 05:39:09] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/12.png: finished in 4.35s
+[10/18 05:39:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/84.png: finished in 3.63s
+[10/18 05:39:17] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/60.png: finished in 3.64s
+[10/18 05:39:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/38.png: finished in 4.31s
+[10/18 05:39:26] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/61.png: finished in 3.97s
+[10/18 05:39:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/67.png: finished in 3.27s
+[10/18 05:39:34] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/27.png: finished in 3.89s
+[10/18 05:39:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/57.png: finished in 3.25s
+[10/18 05:39:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/26.png: finished in 4.39s
+[10/18 05:39:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/70.png: finished in 3.89s
+[10/18 05:39:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/97.png: finished in 4.65s
+[10/18 05:39:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/68.png: finished in 5.14s
+[10/18 05:40:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/33.png: finished in 3.78s
+[10/18 05:40:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/30.png: finished in 4.03s
+[10/18 05:40:09] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/85.png: finished in 4.30s
+[10/18 05:40:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/29.png: finished in 4.64s
+[10/18 05:40:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/25.png: finished in 3.35s
+[10/18 05:40:23] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/65.png: finished in 4.74s
+[10/18 05:40:27] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/82.png: finished in 3.86s
+[10/18 05:40:31] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/8.png: finished in 3.59s
+[10/18 05:40:35] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/88.png: finished in 4.32s
+[10/18 05:40:40] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/71.png: finished in 3.84s
+[10/18 05:40:45] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/63.png: finished in 5.28s
+[10/18 05:40:49] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/10.png: finished in 4.11s
+[10/18 05:40:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/99.png: finished in 3.96s
+[10/18 05:40:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/89.png: finished in 3.91s
+[10/18 05:41:02] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/13.png: finished in 3.65s
+[10/18 05:41:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/52.png: finished in 4.65s
+[10/18 05:41:12] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/96.png: finished in 4.82s
+[10/18 05:41:15] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/47.png: finished in 3.52s
+[10/18 05:41:19] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/51.png: finished in 3.65s
+[10/18 05:41:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/3.png: finished in 4.53s
+[10/18 05:41:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/4.png: finished in 3.88s
+[10/18 05:41:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/53.png: finished in 3.66s
+[10/18 05:41:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/37.png: finished in 4.63s
+[10/18 05:41:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/81.png: finished in 4.60s
+[10/18 05:41:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/44.png: finished in 4.22s
+[10/18 05:41:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/40.png: finished in 4.12s
+[10/18 05:41:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/28.png: finished in 3.55s
+[10/18 05:42:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/95.png: finished in 4.67s
+[10/18 05:42:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/7.png: finished in 4.05s
+[10/18 05:42:10] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/15.png: finished in 5.53s
+[10/18 05:42:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/87.png: finished in 3.64s
+[10/18 05:42:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/24.png: finished in 3.92s
+[10/18 05:42:23] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/92.png: finished in 4.52s
+[10/18 05:42:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/78.png: finished in 4.21s
+[10/18 05:42:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/86.png: finished in 4.35s
+[10/18 05:42:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/48.png: finished in 3.87s
+[10/18 05:42:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/66.png: finished in 4.88s
+[10/18 05:42:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/36.png: finished in 4.22s
+[10/18 05:42:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/79.png: finished in 4.32s
+[10/18 05:42:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/6.png: finished in 3.90s
+[10/18 05:42:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/69.png: finished in 3.73s
+[10/18 05:43:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/94.png: finished in 4.58s
+[10/18 05:43:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/58.png: finished in 3.54s
+[10/18 05:43:12] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/50.png: finished in 4.02s
+[10/18 05:43:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/41.png: finished in 4.03s
+[10/18 05:43:21] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/73.png: finished in 4.71s
+[10/18 05:43:25] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/91.png: finished in 3.80s
+[10/18 05:43:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/54.png: finished in 4.29s
+[10/18 05:43:35] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/32.png: finished in 4.74s
+[10/18 05:43:40] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/14.png: finished in 5.07s
+[10/18 05:43:45] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/5.png: finished in 4.42s
+[10/18 05:43:49] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/46.png: finished in 4.27s
+[10/18 05:43:53] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/93.png: finished in 3.73s
+[10/18 05:43:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/72.png: finished in 4.54s
+[10/18 05:44:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/1.png: finished in 5.66s
+[10/18 05:44:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/77.png: finished in 4.01s
+[10/18 05:44:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/62.png: finished in 3.99s
+[10/18 05:44:17] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/59.png: finished in 4.00s
+[10/18 05:44:21] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/90.png: finished in 3.89s
+[10/18 05:44:25] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/74.png: finished in 3.86s
+[10/18 05:44:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/55.png: finished in 4.81s
+[10/18 05:44:34] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/98.png: finished in 4.18s
+[10/18 05:44:39] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/18.png: finished in 4.51s
+[10/18 05:44:43] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/16.png: finished in 4.03s
+[10/18 05:44:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/21.png: finished in 3.84s
+[10/18 05:44:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/11.png: finished in 3.69s
+[10/18 05:44:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/9.png: finished in 4.42s
+[10/18 05:45:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/22.png: finished in 3.65s
+[10/18 05:45:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/64.png: finished in 4.20s
+[10/18 05:45:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/56.png: finished in 3.50s
+[10/18 05:45:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/23.png: finished in 4.36s
+[10/18 05:45:17] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/39.png: finished in 3.89s
+[10/18 05:45:21] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/80.png: finished in 4.04s
+[10/18 05:45:26] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/34.png: finished in 5.02s
+[10/18 05:45:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/83.png: finished in 5.68s
+[10/18 05:45:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/17.png: finished in 3.84s
+[10/18 05:45:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/19.png: finished in 4.24s
+[10/18 05:45:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/75.png: finished in 4.38s
+[10/18 05:45:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/43.png: finished in 4.11s
+[10/18 05:45:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/20.png: finished in 4.53s
+[10/18 05:46:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/42.png: finished in 5.26s
+[10/18 05:46:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/2.png: finished in 4.84s
+[10/18 05:46:10] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/76.png: finished in 3.77s
+[10/18 05:46:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/45.png: finished in 4.10s
+[10/18 05:46:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/0.png: finished in 4.37s
+[10/18 05:52:18] detectron2 INFO: AUROC score:0.8305088181647057, AUPRC score:0.7744462272770642, FPR@TPR95:0.9165579653879505.
+[10/18 05:53:48] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/LostAndFound/', score='mask2anomaly', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/18 05:54:03] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 4.69s
+[10/18 05:58:26] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/LostAndFound/', score='mask2anomaly', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/18 05:58:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 5.15s
+[10/18 05:58:45] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/35.png: finished in 3.46s
+[10/18 05:58:49] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/49.png: finished in 4.25s
+[10/18 05:58:53] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/12.png: finished in 4.16s
+[10/18 05:58:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/84.png: finished in 4.07s
+[10/18 05:59:01] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/60.png: finished in 3.63s
+[10/18 05:59:06] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/38.png: finished in 4.72s
+[10/18 05:59:11] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/61.png: finished in 3.99s
+[10/18 05:59:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/67.png: finished in 3.47s
+[10/18 05:59:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/27.png: finished in 3.99s
+[10/18 05:59:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/57.png: finished in 3.09s
+[10/18 05:59:26] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/26.png: finished in 4.45s
+[10/18 05:59:31] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/70.png: finished in 4.23s
+[10/18 05:59:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/97.png: finished in 4.92s
+[10/18 05:59:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/68.png: finished in 4.69s
+[10/18 05:59:45] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/33.png: finished in 3.75s
+[10/18 05:59:49] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/30.png: finished in 4.16s
+[10/18 05:59:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/85.png: finished in 4.45s
+[10/18 05:59:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/29.png: finished in 4.95s
+[10/18 06:00:02] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/25.png: finished in 2.85s
+[10/18 06:00:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/65.png: finished in 4.46s
+[10/18 06:00:12] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/82.png: finished in 4.45s
+[10/18 06:00:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/8.png: finished in 3.75s
+[10/18 06:00:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/88.png: finished in 4.51s
+[10/18 06:00:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/71.png: finished in 4.03s
+[10/18 06:00:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/63.png: finished in 4.88s
+[10/18 06:00:33] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/10.png: finished in 3.54s
+[10/18 06:00:38] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/99.png: finished in 4.26s
+[10/18 06:00:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/89.png: finished in 4.36s
+[10/18 06:00:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/13.png: finished in 4.16s
+[10/18 06:00:52] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/52.png: finished in 5.35s
+[10/18 06:00:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/96.png: finished in 3.83s
+[10/18 06:01:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/47.png: finished in 3.26s
+[10/18 06:01:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/51.png: finished in 4.12s
+[10/18 06:01:09] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/3.png: finished in 4.66s
+[10/18 06:01:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/4.png: finished in 4.38s
+[10/18 06:01:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/53.png: finished in 3.97s
+[10/18 06:01:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/37.png: finished in 4.34s
+[10/18 06:01:27] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/81.png: finished in 4.38s
+[10/18 06:01:31] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/44.png: finished in 4.03s
+[10/18 06:01:35] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/40.png: finished in 3.96s
+[10/18 06:01:40] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/28.png: finished in 4.17s
+[10/18 06:01:44] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/95.png: finished in 4.45s
+[10/18 06:01:48] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/7.png: finished in 3.49s
+[10/18 06:01:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/15.png: finished in 5.61s
+[10/18 06:01:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/87.png: finished in 4.02s
+[10/18 06:02:02] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/24.png: finished in 4.11s
+[10/18 06:02:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/92.png: finished in 4.66s
+[10/18 06:02:12] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/78.png: finished in 4.05s
+[10/18 06:02:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/86.png: finished in 3.88s
+[10/18 06:02:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/48.png: finished in 4.07s
+[10/18 06:02:25] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/66.png: finished in 4.53s
+[10/18 06:02:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/36.png: finished in 4.84s
+[10/18 06:02:34] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/79.png: finished in 4.34s
+[10/18 06:02:38] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/6.png: finished in 3.92s
+[10/18 06:02:43] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/69.png: finished in 4.04s
+[10/18 06:02:48] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/94.png: finished in 4.77s
+[10/18 06:02:52] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/58.png: finished in 3.58s
+[10/18 06:02:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/50.png: finished in 4.29s
+[10/18 06:03:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/41.png: finished in 3.82s
+[10/18 06:03:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/73.png: finished in 4.73s
+[10/18 06:03:09] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/91.png: finished in 3.79s
+[10/18 06:03:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/54.png: finished in 4.48s
+[10/18 06:03:19] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/32.png: finished in 5.32s
+[10/18 06:03:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/14.png: finished in 4.66s
+[10/18 06:03:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/5.png: finished in 4.15s
+[10/18 06:03:33] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/46.png: finished in 4.17s
+[10/18 06:03:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/93.png: finished in 3.91s
+[10/18 06:03:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/72.png: finished in 4.65s
+[10/18 06:03:48] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/1.png: finished in 5.89s
+[10/18 06:03:52] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/77.png: finished in 3.93s
+[10/18 06:03:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/62.png: finished in 3.83s
+[10/18 06:04:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/59.png: finished in 3.99s
+[10/18 06:04:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/90.png: finished in 4.09s
+[10/18 06:04:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/74.png: finished in 3.65s
+[10/18 06:04:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/55.png: finished in 5.08s
+[10/18 06:04:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/98.png: finished in 4.39s
+[10/18 06:04:23] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/18.png: finished in 4.20s
+[10/18 06:04:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/16.png: finished in 4.51s
+[10/18 06:04:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/21.png: finished in 4.07s
+[10/18 06:04:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/11.png: finished in 3.71s
+[10/18 06:04:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/9.png: finished in 4.66s
+[10/18 06:04:45] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/22.png: finished in 3.77s
+[10/18 06:04:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/64.png: finished in 4.95s
+[10/18 06:04:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/56.png: finished in 3.90s
+[10/18 06:04:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/23.png: finished in 4.54s
+[10/18 06:05:03] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/39.png: finished in 4.08s
+[10/18 06:05:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/80.png: finished in 4.21s
+[10/18 06:05:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/34.png: finished in 4.80s
+[10/18 06:05:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/83.png: finished in 4.76s
+[10/18 06:05:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/17.png: finished in 4.48s
+[10/18 06:05:27] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/19.png: finished in 4.34s
+[10/18 06:05:31] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/75.png: finished in 4.36s
+[10/18 06:05:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/43.png: finished in 4.13s
+[10/18 06:05:40] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/20.png: finished in 4.37s
+[10/18 06:05:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/42.png: finished in 5.07s
+[10/18 06:05:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/2.png: finished in 4.27s
+[10/18 06:05:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/76.png: finished in 3.86s
+[10/18 06:05:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/45.png: finished in 3.55s
+[10/18 06:06:03] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/0.png: finished in 4.33s
+[10/18 06:11:28] detectron2 INFO: AUROC score:0.8892176392411559, AUPRC score:0.010024064482704886, FPR@TPR95:0.23403280550064057.
+[10/18 06:28:39] detectron2 INFO: Arguments: Namespace(anomaly_plot=False, aug=True, confidence_threshold=0.5, config_file='./configs/cityscapes/semantic-segmentation/anomaly_inference.yaml', dataset='LostAndFound', exp_name='test', input='./datasets/Validation_Dataset/FS_LostAndFound_full/images/*.png', opts=[], output='./anomaly_predictions/LostAndFound/', score='msp', temperature=1.5, temperature_flag=False, text_enhance=True)
+[10/18 06:28:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/31.png: finished in 5.32s
+[10/18 06:28:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/35.png: finished in 3.54s
+[10/18 06:29:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/49.png: finished in 4.43s
+[10/18 06:29:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/12.png: finished in 4.24s
+[10/18 06:29:12] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/84.png: finished in 3.86s
+[10/18 06:29:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/60.png: finished in 3.89s
+[10/18 06:29:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/38.png: finished in 5.22s
+[10/18 06:29:26] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/61.png: finished in 3.86s
+[10/18 06:29:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/67.png: finished in 3.55s
+[10/18 06:29:33] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/27.png: finished in 3.59s
+[10/18 06:29:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/57.png: finished in 3.46s
+[10/18 06:29:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/26.png: finished in 4.84s
+[10/18 06:29:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/70.png: finished in 3.81s
+[10/18 06:29:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/97.png: finished in 5.11s
+[10/18 06:29:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/68.png: finished in 4.66s
+[10/18 06:30:01] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/33.png: finished in 4.20s
+[10/18 06:30:06] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/30.png: finished in 4.69s
+[10/18 06:30:11] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/85.png: finished in 4.97s
+[10/18 06:30:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/29.png: finished in 4.52s
+[10/18 06:30:19] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/25.png: finished in 3.41s
+[10/18 06:30:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/65.png: finished in 4.34s
+[10/18 06:30:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/82.png: finished in 4.51s
+[10/18 06:30:33] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/8.png: finished in 3.94s
+[10/18 06:30:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/88.png: finished in 4.22s
+[10/18 06:30:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/71.png: finished in 3.87s
+[10/18 06:30:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/63.png: finished in 5.20s
+[10/18 06:30:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/10.png: finished in 3.62s
+[10/18 06:30:55] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/99.png: finished in 4.21s
+[10/18 06:30:59] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/89.png: finished in 4.39s
+[10/18 06:31:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/13.png: finished in 4.12s
+[10/18 06:31:09] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/52.png: finished in 5.08s
+[10/18 06:31:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/96.png: finished in 3.47s
+[10/18 06:31:16] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/47.png: finished in 3.33s
+[10/18 06:31:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/51.png: finished in 3.94s
+[10/18 06:31:26] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/3.png: finished in 5.25s
+[10/18 06:31:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/4.png: finished in 4.09s
+[10/18 06:31:34] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/53.png: finished in 4.03s
+[10/18 06:31:39] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/37.png: finished in 4.41s
+[10/18 06:31:44] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/81.png: finished in 4.49s
+[10/18 06:31:48] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/44.png: finished in 4.34s
+[10/18 06:31:52] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/40.png: finished in 3.89s
+[10/18 06:31:57] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/28.png: finished in 3.95s
+[10/18 06:32:01] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/95.png: finished in 4.52s
+[10/18 06:32:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/7.png: finished in 3.77s
+[10/18 06:32:11] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/15.png: finished in 5.69s
+[10/18 06:32:15] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/87.png: finished in 4.15s
+[10/18 06:32:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/24.png: finished in 3.84s
+[10/18 06:32:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/92.png: finished in 4.34s
+[10/18 06:32:28] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/78.png: finished in 3.70s
+[10/18 06:32:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/86.png: finished in 4.07s
+[10/18 06:32:36] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/48.png: finished in 3.68s
+[10/18 06:32:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/66.png: finished in 4.98s
+[10/18 06:32:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/36.png: finished in 4.16s
+[10/18 06:32:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/79.png: finished in 4.10s
+[10/18 06:32:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/6.png: finished in 3.78s
+[10/18 06:32:58] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/69.png: finished in 3.83s
+[10/18 06:33:03] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/94.png: finished in 4.83s
+[10/18 06:33:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/58.png: finished in 3.82s
+[10/18 06:33:11] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/50.png: finished in 3.67s
+[10/18 06:33:15] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/41.png: finished in 3.84s
+[10/18 06:33:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/73.png: finished in 4.35s
+[10/18 06:33:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/91.png: finished in 4.05s
+[10/18 06:33:29] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/54.png: finished in 4.50s
+[10/18 06:33:35] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/32.png: finished in 5.59s
+[10/18 06:33:39] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/14.png: finished in 4.24s
+[10/18 06:33:43] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/5.png: finished in 3.57s
+[10/18 06:33:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/46.png: finished in 4.24s
+[10/18 06:33:52] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/93.png: finished in 4.27s
+[10/18 06:33:57] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/72.png: finished in 4.86s
+[10/18 06:34:03] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/1.png: finished in 5.76s
+[10/18 06:34:07] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/77.png: finished in 4.12s
+[10/18 06:34:11] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/62.png: finished in 4.00s
+[10/18 06:34:15] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/59.png: finished in 3.96s
+[10/18 06:34:20] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/90.png: finished in 4.33s
+[10/18 06:34:24] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/74.png: finished in 4.22s
+[10/18 06:34:30] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/55.png: finished in 5.35s
+[10/18 06:34:34] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/98.png: finished in 3.58s
+[10/18 06:34:38] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/18.png: finished in 4.21s
+[10/18 06:34:42] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/16.png: finished in 4.13s
+[10/18 06:34:47] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/21.png: finished in 3.93s
+[10/18 06:34:51] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/11.png: finished in 3.86s
+[10/18 06:34:56] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/9.png: finished in 4.96s
+[10/18 06:35:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/22.png: finished in 3.80s
+[10/18 06:35:04] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/64.png: finished in 4.48s
+[10/18 06:35:08] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/56.png: finished in 3.83s
+[10/18 06:35:13] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/23.png: finished in 4.46s
+[10/18 06:35:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/39.png: finished in 4.30s
+[10/18 06:35:22] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/80.png: finished in 3.94s
+[10/18 06:35:27] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/34.png: finished in 4.87s
+[10/18 06:35:32] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/83.png: finished in 4.74s
+[10/18 06:35:37] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/17.png: finished in 4.58s
+[10/18 06:35:41] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/19.png: finished in 4.63s
+[10/18 06:35:46] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/75.png: finished in 4.42s
+[10/18 06:35:50] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/43.png: finished in 3.91s
+[10/18 06:35:54] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/20.png: finished in 4.03s
+[10/18 06:36:00] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/42.png: finished in 5.35s
+[10/18 06:36:05] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/2.png: finished in 5.33s
+[10/18 06:36:10] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/76.png: finished in 3.90s
+[10/18 06:36:14] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/45.png: finished in 3.95s
+[10/18 06:36:18] detectron2 INFO: ./datasets/Validation_Dataset/FS_LostAndFound_full/images/0.png: finished in 4.36s
+[10/18 06:41:33] detectron2 INFO: AUROC score:0.9065841419538725, AUPRC score:0.014538489245897115, FPR@TPR95:0.28592938979972155.
