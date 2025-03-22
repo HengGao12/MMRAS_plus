@@ -1,5 +1,6 @@
 # Multi-modality Anomaly Segmentation on the Road
-Heng Gao, Zhuolin He, Shoumeng Qiu, Xiangyang Xue*, Jian Pu
+> Heng Gao, Zhuolin He, Shoumeng Qiu, Xiangyang Xue*, Jian Pu
+> Fudan University  
 
 
 #### Abstract
