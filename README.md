@@ -40,3 +40,5 @@ The pre-trained model is given in './output/m2unk_coco_supervised_v1/best_contra
 #### Acknowledgement
 
 Our code is developed based on [Mask2Anomaly](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation/tree/main) and [MaskCLIP](https://github.com/chongzhou96/MaskCLIP/tree/master). Thanks to their great work!
+
+ArXiv Link: Pending update...
