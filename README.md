@@ -8,7 +8,7 @@
 > Semantic segmentation allows autonomous driving cars to understand the surroundings of the vehicle comprehensively. However, it is also crucial for the model to detect obstacles that may jeopardize the safety of autonomous driving systems. 
 > Based on our experiments, we find that current uni-modal anomaly segmentation frameworks tend to produce high anomaly scores for non-anomalous regions in images. Motivated by this empirical finding, we develop a multi-modal **uncertainty-based** anomaly segmentation framework, named MMRAS+, for autonomous driving systems.
 > MMRAS+ effectively reduces the high anomaly outputs of non-anomalous classes by introducing text-modal using the CLIP text encoder. Indeed, MMRAS+ is the first multi-modal anomaly segmentation solution for autonomous driving. Moreover, we develop an ensemble module to further boost the anomaly segmentation performance. 
-> Experiments on RoadAnomaly, SMIYC, and Fishyscapes validation datasets demonstrate the superior performance of our method. The code will be released upon the acceptance of the paper.
+> Experiments on RoadAnomaly, SMIYC, and Fishyscapes validation datasets demonstrate the superior performance of our method.
 
 #### Installation
 
