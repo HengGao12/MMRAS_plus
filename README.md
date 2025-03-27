@@ -41,4 +41,14 @@ The pre-trained model is given in './output/m2unk_coco_supervised_v1/best_contra
 
 Our code is developed based on [Mask2Anomaly](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation/tree/main) and [MaskCLIP](https://github.com/chongzhou96/MaskCLIP/tree/master). Thanks to their great work!
 
-ArXiv Link: Pending update...
+## Citation
+If you find **MMRAS+** useful in your research, please consider citing:
+```
+@article{gao2025multi,
+  title={Multi-modality Anomaly Segmentation on the Road},
+  author={Gao, Heng and He, Zhuolin and Qiu, Shoumeng and Xue, Xiangyang and Pu, Jian},
+  journal={arXiv preprint arXiv:2503.17712},
+  year={2025}
+}
+```
+
